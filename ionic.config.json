@@ -1,0 +1,7 @@
+{
+  "name": "ionicReactSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
